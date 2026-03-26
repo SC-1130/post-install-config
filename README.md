@@ -26,11 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - IImplement SLA policies and help topics for effective ticket management.
 
 
-  -Learn how to navigate and use the Admin and Agent panels.
- -Set up departments and teams for organizational structure.
- -Create and manage users with appropriate roles and permissions.
- -Configure system settings for both registered and unregistered users.
- -Implement SLA policies and help topics for effective ticket management.
+
 
 <h2>Configuration Steps</h2>
 
