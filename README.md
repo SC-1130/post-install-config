@@ -72,3 +72,10 @@ Configure user settings to define access for both registered and unregistered us
 Complete the setup by configuring SLA (Sev-A, Sev-B, and Sev-C) to manage ticket priorities, and create help topics to organize and guide ticket submissions.
 <br />
 
+
+<p>
+<img width="1263" height="698" alt="Capture help topics" src="https://github.com/user-attachments/assets/d71489fa-44eb-4804-9444-350609007433" />
+
+</p>
+<p>
+Configure Help Topics for when users create a ticket by navigating to Admin Panel → Manage → Help Topics. Create categories such as Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and Other to organize and streamline ticket submissions.
