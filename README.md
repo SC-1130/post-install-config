@@ -33,6 +33,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img width="1220" height="694" alt="Capture" src="https://github.com/user-attachments/assets/2e7c898d-3cd7-4c53-8376-abfabedfb61c" />
 
+<img width="1045" height="461" alt="Capture 2" src="https://github.com/user-attachments/assets/ca71846e-f34d-4581-a9f5-3d136b3e901d" />
+
+
 </p>
 <p>
 Familiarizing myself with both the Admin and Agent panels, then create a SysAdmin account and set up the necessary departments within the system.
@@ -41,7 +44,7 @@ Familiarizing myself with both the Admin and Agent panels, then create a SysAdmi
 
 <p>
 <img width="1065" height="568" alt="Capture1" src="https://github.com/user-attachments/assets/ba2d6bc8-0aa9-4e7f-885b-e2627c584c47" />
-<img width="1045" height="461" alt="Capture 2" src="https://github.com/user-attachments/assets/70bcf9a3-2ae6-4560-b502-bbd0a7c42738" />
+
 
 </p>
 <p>
