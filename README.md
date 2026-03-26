@@ -23,7 +23,7 @@ This setup demonstrates the essential steps to set up a ticketing system, includ
 - Set up departments and teams.
 - Create and manage users with appropriate roles and permissions.
 - Configure system settings for both registered and unregistered users.
-- IImplement SLA and help topics for effective ticket management.
+- Implement SLA and help topics for effective ticket management.
 
 
 
