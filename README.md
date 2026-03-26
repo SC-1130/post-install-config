@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This setup demonstrates the essential steps to set up a ticketing system, including configuring users, teams, and departments, defining access controls, and organizing support workflows through SLAs and help topics..<br />
 
 
 
