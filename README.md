@@ -15,7 +15,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11</b> 
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -53,9 +53,22 @@ In the Admin panel, create teams to represent groups responsible for specific sy
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1144" height="627" alt="Capture jane" src="https://github.com/user-attachments/assets/6e331384-01f8-4529-b2c7-6db045ef865a" />
+<img width="1257" height="629" alt="Capture karen" src="https://github.com/user-attachments/assets/bc60dc08-955e-47ef-ba21-7eee4714ed2c" />
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Configure user settings to define access for both registered and unregistered users. Create two agents (Jane Doe and John Doe) and one end user (Karen), assign their roles and permissions, and add the end user through the Agent panel. </p>
 <br />
+
+<p>
+<img width="1067" height="527" alt="Capture sla" src="https://github.com/user-attachments/assets/d870c728-8fa3-4bba-9f4a-37ce520b32e3" />
+
+
+</p>
+<p>
+Complete the setup by configuring SLA (Sev-A, Sev-B, and Sev-C) to manage ticket priorities, and create help topics to organize and guide ticket submissions.
+<br />
+
