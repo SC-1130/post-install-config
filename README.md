@@ -20,7 +20,7 @@ This setup demonstrates the essential steps to set up a ticketing system, includ
 <h2>Post-Install Configuration Objectives</h2>
 
 - Learn how to navigate and use the Admin and Agent panels.
-- Set up departments and teams for organizational structure.
+- Set up departments and teams.
 - Create and manage users with appropriate roles and permissions.
 - Configure system settings for both registered and unregistered users.
 - IImplement SLA and help topics for effective ticket management.
